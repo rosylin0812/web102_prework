@@ -34,7 +34,7 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I think I need more practice on Javascript.
 
 ## License
 
