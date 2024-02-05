@@ -26,7 +26,7 @@ Here's a walkthrough of implemented features:
 <img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with [LICEcap]([https://www.cockos.com/licecap/])
+GIF created with [LICEcap](https://www.cockos.com/licecap/)
 
 ## Notes
 
