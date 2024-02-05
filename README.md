@@ -4,7 +4,7 @@ Submitted by: **Fangju Lin**
 
 **Sea Monster Games** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **25** hours spent in total
+Time spent: **23** hours spent in total
 
 ## Required Features
 
