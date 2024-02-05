@@ -23,14 +23,10 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='[http://i.imgur.com/link/to/your/gif/file.gif](https://github.com/rosylin0812/web102_prework/blob/6dc66754e864577f0003dd45b2294eb746e81743/walkthrough.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif]([https://www.screentogif.com/](https://github.com/rosylin0812/web102_prework/blob/6dc66754e864577f0003dd45b2294eb746e81743/walkthrough.gif)) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+GIF created with [LICEcap]([https://www.cockos.com/licecap/])
 
 ## Notes
 
