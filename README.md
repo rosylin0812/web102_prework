@@ -1,4 +1,4 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - *Sea Monster Games*
 
 Submitted by: **Fangju Lin**
 
@@ -34,7 +34,7 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I think I need more practice on Javascript.
 
 ## License
 
