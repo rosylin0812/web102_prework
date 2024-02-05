@@ -29,7 +29,7 @@ Here's a walkthrough of implemented features:
 GIF created with ...  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
+[ScreenToGif]([https://www.screentogif.com/](https://github.com/rosylin0812/web102_prework/blob/6dc66754e864577f0003dd45b2294eb746e81743/walkthrough.gif)) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
